@@ -3,8 +3,8 @@ console.log('main.js loaded');
 
 let students = [
     {
-        name: "Floricica Dansatoarea",
-        avatar: "https://unsplash.it/150/150",
+        name: "Adi",
+        avatar: "https://avatars.dicebear.com/api/bottts/adi.svg",
         title: "Dr. Universitar Honoris Causa",
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores iste possimus aut, placeat fugiat reiciendis, aliquid.",
         stats: {
@@ -14,8 +14,8 @@ let students = [
         }
     },
     {
-        name: "Dorian Popa",
-        avatar: "https://unsplash.it/150/150",
+        name: "Ioana",
+        avatar: "https://avatars.dicebear.com/api/bottts/ioana.svg",
         title: "Asist. Hâț Universitar",
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores iste possimus aut, placeat fugiat reiciendis, aliquid.",
         stats: {
@@ -25,8 +25,8 @@ let students = [
         }
     },
     {
-        name: "Dorian Popa",
-        avatar: "https://unsplash.it/150/150",
+        name: "Alex",
+        avatar: "https://avatars.dicebear.com/api/bottts/alex.svg",
         title: "Asist. Hâț Universitar",
         description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores iste possimus aut, placeat fugiat reiciendis, aliquid.",
         stats: {
@@ -35,6 +35,50 @@ let students = [
             skipped: 3
         }
     },
+    {
+        name: "Tudor",
+        avatar: "https://avatars.dicebear.com/api/bottts/tudor.svg",
+        title: "Asist. Hâț Universitar",
+        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores iste possimus aut, placeat fugiat reiciendis, aliquid.",
+        stats: {
+            points: 10,
+            answers: 15,
+            skipped: 3
+        }
+    },
+    {
+        name: "Maria",
+        avatar: "https://avatars.dicebear.com/api/bottts/maria.svg",
+        title: "Asist. Hâț Universitar",
+        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores iste possimus aut, placeat fugiat reiciendis, aliquid.",
+        stats: {
+            points: 10,
+            answers: 15,
+            skipped: 3
+        }
+    },
+    {
+        name: "Iris",
+        avatar: "https://avatars.dicebear.com/api/bottts/iris.svg",
+        title: "Asist. Hâț Universitar",
+        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores iste possimus aut, placeat fugiat reiciendis, aliquid.",
+        stats: {
+            points: 10,
+            answers: 15,
+            skipped: 3
+        }
+    },
+    {
+        name: "Teo",
+        avatar: "https://avatars.dicebear.com/api/bottts/teo.svg",
+        title: "Asist. Hâț Universitar",
+        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores iste possimus aut, placeat fugiat reiciendis, aliquid.",
+        stats: {
+            points: 10,
+            answers: 15,
+            skipped: 3
+        }
+    }
 ];
 
 
